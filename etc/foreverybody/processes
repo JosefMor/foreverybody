@@ -1,0 +1,2 @@
+mynodeserver /path/to/nodescript nodescript.js
+mynodeserver /path/to/nodescript nodescript.js 12345 nodedaemonuser DEV
